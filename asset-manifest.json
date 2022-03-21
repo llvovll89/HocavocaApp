@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HocavocaApp/static/css/main.82cda76a.css",
+    "main.js": "/HocavocaApp/static/js/main.e5acaca2.js",
+    "index.html": "/HocavocaApp/index.html",
+    "main.82cda76a.css.map": "/HocavocaApp/static/css/main.82cda76a.css.map",
+    "main.e5acaca2.js.map": "/HocavocaApp/static/js/main.e5acaca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82cda76a.css",
+    "static/js/main.e5acaca2.js"
+  ]
+}
