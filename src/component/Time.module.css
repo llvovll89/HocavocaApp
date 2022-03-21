@@ -1,0 +1,32 @@
+.time_container {
+    width: 120px;
+    position: relative;
+    margin: 20px auto;
+    height: 55px;
+}
+
+
+.time_container .time_content {
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, #ede574, #e1f5c4);
+    border-radius: 12px;
+}
+
+.time_title {
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.time_content span {
+    font-size: 18px;
+}
+
+@media (max-width: 564px) {
+    .time_container .time_content {
+        position: absolute;
+        top: 0;
+        right: 0;
+        text-align: center;
+    }
+}
